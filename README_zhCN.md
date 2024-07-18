@@ -23,7 +23,7 @@
 
 ```
 
-- （可选）克隆我的 [Notion 数据库](https://www.notion.so/dearrrfish/97c86daab96c40e98639bcdd9da85d28)。 编辑后，导出想要使用的模组视图到 CSV
+- （可选）克隆我的 [Notion 数据库](https://dearrrfish.notion.site/97c86daab96c40e98639bcdd9da85d28?v=ccb0aed20f3c44c382f4cd279f4769e1)。 编辑后，导出想要使用的模组视图到 CSV
 
 ### 维护本地模组源文件
 

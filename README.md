@@ -23,7 +23,7 @@
 
 ```
 
-- (Optional) Duplicate from my [Notion page](https://www.notion.so/dearrrfish/97c86daab96c40e98639bcdd9da85d28)
+- (Optional) Duplicate from my [Notion page](https://dearrrfish.notion.site/97c86daab96c40e98639bcdd9da85d28?v=ccb0aed20f3c44c382f4cd279f4769e1)
 
     - Export for CSV dump of the mods to be included
     - Make sure required fields `XID`, `项目名` are exported.
